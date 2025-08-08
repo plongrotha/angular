@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-event-bind',
   imports: [],
   templateUrl: './event-bind.component.html',
-  styleUrl: './event-bind.component.css',
+  styleUrls: ['./event-bind.component.css'],
 })
 export class EventBindComponent {
   clickHere(event: MouseEvent) {
