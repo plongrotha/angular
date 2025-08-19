@@ -2,11 +2,16 @@
   <h2 class="text-2xl text-center">this is Event Bind Component</h2>
 
   <div class="ml-4">
+    <div>
+      <!-- <h2>{{ counter }}</h2> -->
+    </div>
     <button
       class="w-[200px] bg-blue-500 text-white h-[100px] rounded font-medium"
-      (click)="clickHere($event)"
+      (click)="increase()"
     >
-      Click
+      Increase
     </button>
   </div>
 </div>
+
+<app-event-bind></app-event-bind>

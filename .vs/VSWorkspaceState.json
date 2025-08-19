@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\event-bind"
+  ],
+  "SelectedNode": "\\src\\app\\components\\event-bind\\event-bind.component.html",
+  "PreviewInSolutionExplorer": false
+}

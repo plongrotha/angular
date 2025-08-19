@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './string-interpolation.component.css',
 })
 export class StringInterpolationComponent {
-  subject = '';
+  subject = ' ';
 }
