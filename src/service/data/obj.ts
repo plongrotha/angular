@@ -1,0 +1,36 @@
+export const employee: Array<{
+  firstname: string;
+  lastname: string;
+  age: number;
+}> = [
+  { firstname: 'John', lastname: 'Doe', age: 18 },
+  { firstname: 'Jane', lastname: 'Smith', age: 23 },
+  { firstname: 'Alice', lastname: 'Johnson', age: 25 },
+  { firstname: 'Bob', lastname: 'Brown', age: 30 },
+  { firstname: 'Charlie', lastname: 'Davis', age: 28 },
+  { firstname: 'Diana', lastname: 'Wilson', age: 22 },
+  { firstname: 'Ethan', lastname: 'Taylor', age: 27 },
+  { firstname: 'Fiona', lastname: 'Anderson', age: 32 },
+  { firstname: 'George', lastname: 'Thomas', age: 29 },
+  { firstname: 'Hannah', lastname: 'Jackson', age: 24 },
+  { firstname: 'Ian', lastname: 'White', age: 26 },
+  { firstname: 'Julia', lastname: 'Harris', age: 31 },
+  { firstname: 'Kevin', lastname: 'Martin', age: 21 },
+  { firstname: 'Laura', lastname: 'Thompson', age: 33 },
+  { firstname: 'Mike', lastname: 'Garcia', age: 27 },
+  { firstname: 'Nina', lastname: 'Martinez', age: 25 },
+  { firstname: 'Oscar', lastname: 'Robinson', age: 34 },
+  { firstname: 'Paula', lastname: 'Clark', age: 22 },
+  { firstname: 'Quinn', lastname: 'Rodriguez', age: 29 },
+  { firstname: 'Ryan', lastname: 'Lewis', age: 30 },
+  { firstname: 'Sophia', lastname: 'Lee', age: 28 },
+  { firstname: 'Tom', lastname: 'Walker', age: 24 },
+  { firstname: 'Uma', lastname: 'Hall', age: 26 },
+  { firstname: 'Victor', lastname: 'Allen', age: 35 },
+  { firstname: 'Wendy', lastname: 'Young', age: 23 },
+  { firstname: 'Xavier', lastname: 'King', age: 32 },
+  { firstname: 'Yara', lastname: 'Scott', age: 21 },
+  { firstname: 'Zane', lastname: 'Adams', age: 27 },
+  { firstname: 'Amber', lastname: 'Baker', age: 29 },
+  { firstname: 'Brian', lastname: 'Nelson', age: 33 },
+];
